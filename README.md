@@ -54,10 +54,10 @@ This project is licenced under the MIT License - see the [LICENSE.md](/LICENSE) 
 
 Landing Pages: **Mobile and Web**
 
-![Landing](/images/wireframes/landingpage.png)
+![Landing](./src/images/wireframes/landingpage.png)
 
 Location selector and Products Page: **Mobile and Web**
 
-![Location/Products](/images/wireframes/locationandproducts.png)
+![Location/Products](./src/images/wireframes/locationandproducts.png)
 
 ### To Be Updated
