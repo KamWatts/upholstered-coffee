@@ -1,12 +1,12 @@
 # Upholstered Coffee
 
-Upholstered Coffee is a website that aims to provide a pesonalized coddee experience to used who to remodel their way of drinking coffee in the morning. Our platform allows users to purchase coffee bean products from all over the world and offers a selection of chemex and french presses made from privately owned vendors or independent freelancers. We prioritize eco-friendly products and ensure that all products sold on our website are eco-friendly.
+Upholstered Coffee is a website that aims to provide a personalized coffee experience to those who want to remodel their way of drinking coffee in the morning. Our platform allows users to purchase coffee bean products from all over the world and offers a selection of chemex and french presses made from privately owned vendors or independent freelancers. We prioritize eco-friendly products and ensure that all products sold on our website are eco-friendly.
 
 ## Features
 
 * **Product Catalog:**  Our website offers a wide range of coffee bean products from different regions of the world. Users can easily browse and search for their desired products on our website.
 
-* **Privately Owned Vendors:** We belive in supporting small businesses, and our website only features privately owned vendors. This helps our users find unique products and also supports their communities.
+* **Privately Owned Vendors:** We beleive in supporting small businesses, and our website only features privately owned vendors. This helps our users find unique products and also supports their communities.
 
 * **Eco-Friendly Products:** We understand the importance of reducing our carbon footprint, and that is why we only offer eco-friendly products. Our products are sourced sustainably, and our packaging is recyclable.
 
