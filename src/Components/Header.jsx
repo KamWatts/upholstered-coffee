@@ -9,7 +9,7 @@ function Header() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=First slide&bg=f5f5f5"
+          src='/src/images/slide1.jpg'
           alt="First slide"
         />
         <Carousel.Caption>
@@ -20,7 +20,7 @@ function Header() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=eee"
+          src="/src/images/slide2.jpg"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -31,7 +31,7 @@ function Header() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=e5e5e5"
+          src="/src/images/slide3.jpg"
           alt="Third slide"
         />
         <Carousel.Caption>
